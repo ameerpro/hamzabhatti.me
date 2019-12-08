@@ -3,7 +3,7 @@ date: '2017-03-13'
 title: 'Android Developer'
 company: 'Technerd'
 location: 'Lahore, PK'
-range: 'March - Jun 2018'
+range: 'March 2017 - Jun 2018'
 url: 'https://www.technerd.us/'
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'NextCloud'
 cover: './nextcloud.png'
 github: 'https://github.com/nextcloud'

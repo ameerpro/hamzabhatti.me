@@ -242,11 +242,11 @@ class Nav extends Component {
                 <StyledLogo>
                   {location.pathname === '/' ? (
                     <a href="/" aria-label="home">
-                      <IconLogo />
+                      {/* <IconLogo /> */}
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">
-                      <IconLogo />
+                      {/* <IconLogo /> */}
                     </Link>
                   )}
                 </StyledLogo>

@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'NextCloud'
 github: 'https://github.com/nextcloud'
 external: 'https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=en'
