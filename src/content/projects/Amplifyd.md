@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '5'
 title: 'Amplifyd'
 github: 'https://github.com/ameerpro'
 external: 'https://play.google.com/store/apps/details?id=com.logicon.amplifyd&hl=en'
