@@ -8,7 +8,7 @@
           {
             "node": {
               "frontmatter": {
-                "date": "2",
+                "date": "5",
                 "title": "Amplifyd",
                 "tech": ["Android", "Kotlin", "RxJava", "Facebook SDK"],
                 "github": "https://github.com/ameerpro",
@@ -22,7 +22,7 @@
           {
             "node": {
               "frontmatter": {
-                "date": "2",
+                "date": "4",
                 "title": "Cryptallet",
                 "tech": ["Android", "Java", "RxJava"],
                 "github": "https://github.com/ameerpro/cryptallet",
@@ -36,7 +36,7 @@
           {
             "node": {
               "frontmatter": {
-                "date": "1",
+                "date": "3",
                 "title": "Emergencme",
                 "tech": [
                   "Java",
@@ -56,7 +56,7 @@
           {
             "node": {
               "frontmatter": {
-                "date": "1",
+                "date": "2",
                 "title": "NextCloud",
                 "tech": ["Android", "Java"],
                 "github": "https://github.com/nextcloud",
