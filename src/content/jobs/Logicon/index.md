@@ -3,7 +3,7 @@ date: '2018-02-07'
 title: 'Sr. Android Developer'
 company: 'Logicon'
 location: 'Lahore, PK'
-range: 'July 2018 - Present'
+range: 'July 2018 - August 2020'
 url: 'https://logicon.tech/'
 ---
 

@@ -7,8 +7,8 @@
       "assets": [
         "webpack-runtime-54ce1679f6a6f532dcf2.js",
         "webpack-runtime-54ce1679f6a6f532dcf2.js.map",
-        "commons-40d3878c1309ab827fea.js",
-        "commons-40d3878c1309ab827fea.js.map",
+        "commons-80ca19612c6fc2a97e6a.js",
+        "commons-80ca19612c6fc2a97e6a.js.map",
         "app-32148e5922a8e9ed66fd.js",
         "app-32148e5922a8e9ed66fd.js.map"
       ],
@@ -27,8 +27,8 @@
     "component---src-pages-404-js": {
       "chunks": [0, 3],
       "assets": [
-        "commons-40d3878c1309ab827fea.js",
-        "commons-40d3878c1309ab827fea.js.map",
+        "commons-80ca19612c6fc2a97e6a.js",
+        "commons-80ca19612c6fc2a97e6a.js.map",
         "component---src-pages-404-js-1fb187bbd31830ddb2a8.js",
         "component---src-pages-404-js-1fb187bbd31830ddb2a8.js.map"
       ],
@@ -38,8 +38,8 @@
     "component---src-pages-archive-js": {
       "chunks": [0, 4],
       "assets": [
-        "commons-40d3878c1309ab827fea.js",
-        "commons-40d3878c1309ab827fea.js.map",
+        "commons-80ca19612c6fc2a97e6a.js",
+        "commons-80ca19612c6fc2a97e6a.js.map",
         "component---src-pages-archive-js-f400541804e06d0218a6.js",
         "component---src-pages-archive-js-f400541804e06d0218a6.js.map"
       ],
@@ -49,8 +49,8 @@
     "component---src-pages-index-js": {
       "chunks": [0, 5],
       "assets": [
-        "commons-40d3878c1309ab827fea.js",
-        "commons-40d3878c1309ab827fea.js.map",
+        "commons-80ca19612c6fc2a97e6a.js",
+        "commons-80ca19612c6fc2a97e6a.js.map",
         "component---src-pages-index-js-195310f3e901d50d5793.js",
         "component---src-pages-index-js-195310f3e901d50d5793.js.map"
       ],
@@ -61,22 +61,22 @@
   "assetsByChunkName": {
     "app": [
       "webpack-runtime-54ce1679f6a6f532dcf2.js",
-      "commons-40d3878c1309ab827fea.js",
+      "commons-80ca19612c6fc2a97e6a.js",
       "app-32148e5922a8e9ed66fd.js"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-464799f49a8645ba6a44.js"
     ],
     "component---src-pages-404-js": [
-      "commons-40d3878c1309ab827fea.js",
+      "commons-80ca19612c6fc2a97e6a.js",
       "component---src-pages-404-js-1fb187bbd31830ddb2a8.js"
     ],
     "component---src-pages-archive-js": [
-      "commons-40d3878c1309ab827fea.js",
+      "commons-80ca19612c6fc2a97e6a.js",
       "component---src-pages-archive-js-f400541804e06d0218a6.js"
     ],
     "component---src-pages-index-js": [
-      "commons-40d3878c1309ab827fea.js",
+      "commons-80ca19612c6fc2a97e6a.js",
       "component---src-pages-index-js-195310f3e901d50d5793.js"
     ]
   }
